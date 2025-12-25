@@ -16,7 +16,7 @@
 
 ## 📊 Project preview
 
-![Dashboard](<Dashboard.png>)
+![Dashboard](Project_images/Dashboard.png)
 
 ## ⚒️ Tools used
 
@@ -40,7 +40,7 @@
 
 ### 🌠 Data model:
 
-![Data model](<Relationship_star_schema.png>)
+![Data model](Project_images/Relationship_star_schema.png)
 
  - ⭐ Made a ***Data model*** utilizing ***Star constellation*** pattern in Power pivot, connecting Dimension tables and Fact tables using Primary and foreign keys.
  
@@ -63,8 +63,8 @@
 
  📄 **Formatting and Visuals**:
 - Built ***KPI's cards*** to show Total revenue by the month and product category and revenue rate%.
-- ***Bar charts*** to for Top products and Top countries.
-- ***Line charts*** for Revenue trend month-over-month and Revenue trend year-over-year.
+- Created ***Bar charts*** for Top products and Top countries.
+- Created ***Line charts*** for Revenue trend month-over-month and Revenue trend year-over-year.
 
 ## 💹 Key insights
 - 🚲 **Bikes** exhibit a ***consistent seasonal pattern*** with recurring ***quarterly peak***. Suggesting a steady cyclical demand for Bikes from Resellers. Leveraging this pattern to optimize ***Inventory management***, will reduce the risk of obsolescence.
